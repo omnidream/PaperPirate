@@ -6,4 +6,5 @@ public class EnemyStats : MonoBehaviour
 {
     public bool isABigBoat;
     public int hitPoints; 
+    
 }
