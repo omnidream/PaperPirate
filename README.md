@@ -1,3 +1,4 @@
+![alt text](https://github.com/omnidream/PaperPirate/blob/main/117772380_10159167416953646_8985902879581394721_n.jpg?raw=true)
 # PaperPirate
 A small 3D game made in Unity and C#.
 
